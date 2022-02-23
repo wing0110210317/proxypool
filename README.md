@@ -7,7 +7,7 @@
 <h5 align="center">目前最新开发版： v0.6.2 Gravy</h5>
 <p align="center">
 
-  <a href="https://goreportcard.com/report/github.com/wing0110210317/proxypool">
+  <a href="https://goreportcard.com/report/github.com/daycat/proxypool">
     <img src="https://goreportcard.com/badge/github.com/daycat/proxypool?style=flat-square">
   </a>
 
@@ -30,7 +30,7 @@
 以下五选一。
 ### Debian | Ubuntu:
 ```sh
-bash <(curl -Ls https://raw.githubusercontent.com/daycat/proxypool/master/onekey_install_deb.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/wing0110210317/proxypool/master/onekey_install_deb.sh)
 ```
 
 ### CentOS 7.* | RHeL 7.* :
