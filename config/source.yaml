@@ -1,33 +1,85 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+    url: 
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/vmess.txt
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/trojan.txt
+
+- type: subscribe
+  options:
+    url: https://github.com/Leon406/Sub/blob/master/sub/share/tr
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/v2raysub
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/v2
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/yc20013/vm/main/a
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/1768605134/Vmess/main/README.md
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/vmess.md
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/xiaotangmu8/vmess/main/vmess.md
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
+
+- type: subscribe
+  options:
+    url: https://jiang.netlify.app/
+
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.app/
+
+- type: subscribe
+  options:
+    url: https://v2ray.banyunxiaoxi.ml/
 
 # 网页模糊抓取
 - type: webfuzz
   options:
-    url: https://merlinblog.xyz/wiki/freess.html
+    url: 
 
 # tg频道抓取
 - type: tgchannel
   options:
-    channel: ssrList
+    channel: 
     num: 200
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
-    url: https://fanqiangdang.com/forum-48-1.html
+    url: 
 
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+    url: https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/v2ray.txt
+
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/trojan.txt
 
 # 某个网站抓取
 - type: web-freessrxyz
