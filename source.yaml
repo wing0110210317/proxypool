@@ -1,35 +1,58 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+    url: 
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    url: https://mega.jinxnet.xyz/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://sspool.herokuapp.com/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://free.kingfu.cf/vmess/sub
+
+- type: subscribe
+  options:
+    url: https://proxy.yugogo.xyz/vmess/sub
 
 # 网页模糊抓取
 - type: webfuzz
   options:
-    url: https://merlinblog.xyz/wiki/freess.html
+    url: 
 
 # tg频道抓取
 - type: tgchannel
   options:
-    channel: ssrList
+    channel: 
     num: 200
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
-    url: https://fanqiangdang.com/forum-48-1.html
+    url: 
 
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+    url: https://mega.jinxnet.xyz/clash/proxies?type=vmess
 
+- type: clash
+  options:
+    url: https://sspool.herokuapp.com/clash/proxies?type=vmess
+    
+- type: clash
+  options:
+    url: https://free.kingfu.cf/clash/proxies?type=vmess
+    
+- type: clash
+  options:
+    url: https://proxy.yugogo.xyz/proxies?type=vmess
+    
 # 某个网站抓取
 - type: web-freessrxyz
   options:
-  
