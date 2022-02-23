@@ -267,7 +267,7 @@ download_pc(){
         ;;
     esac
 
-    wget https://raw.githubusercontent.com/daycat/proxypool/master/source.yaml
+    wget https://raw.githubusercontent.com/wing0110210317/proxypool/master/source.yaml
    
     cat > ./config.yaml <<-EOF
     domain: $your_domain
